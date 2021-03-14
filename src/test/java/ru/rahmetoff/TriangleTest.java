@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 package ru.rahmetoff;
 
 import areaCalc.Triangle;
@@ -47,3 +48,7 @@ public class TriangleTest {
     }
 }
 //    Настроить генерацию отчета и - по желанию - логирование.
+=======
+package ru.rahmetoff;public class TriangleTest {
+}
+>>>>>>> main
