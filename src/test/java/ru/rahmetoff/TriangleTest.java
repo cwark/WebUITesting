@@ -1,7 +1,7 @@
-<<<<<<< HEAD
+
 package ru.rahmetoff;
 
-import areaCalc.Triangle;
+import ru.rahmetoff.areaCalc.Triangle;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import org.slf4j.Logger;
@@ -48,7 +48,4 @@ public class TriangleTest {
     }
 }
 //    Настроить генерацию отчета и - по желанию - логирование.
-=======
-package ru.rahmetoff;public class TriangleTest {
-}
->>>>>>> main
+

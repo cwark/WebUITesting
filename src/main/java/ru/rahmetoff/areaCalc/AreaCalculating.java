@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-package areaCalc;
+
+package ru.rahmetoff.areaCalc;
 
 public class AreaCalculating {
 
@@ -9,7 +9,4 @@ public class AreaCalculating {
 
         System.out.println(triangle.triangleArea());
     }
-=======
-package ru.rahmetoff;public class AreaCalculating {
->>>>>>> main
 }
